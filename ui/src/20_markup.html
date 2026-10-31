@@ -1,0 +1,80 @@
+<div class="app" id="app">
+  <aside class="rail" aria-label="Sections">
+    <div class="logo" title="Second Brain">
+      <svg viewBox="0 0 36 36" aria-hidden="true"><defs><radialGradient id="lg" cx="40%" cy="35%"><stop offset="0" stop-color="#F2B134"/><stop offset="1" stop-color="#8AB4F8" stop-opacity="0.5"/></radialGradient></defs>
+        <circle cx="18" cy="18" r="16" fill="none" stroke="url(#lg)" stroke-width="1.2" opacity="0.7"/>
+        <circle cx="12" cy="14" r="2.2" fill="#F2B134"/><circle cx="24" cy="12" r="1.7" fill="#8AB4F8"/><circle cx="21" cy="24" r="2.4" fill="#F2B8A0"/><circle cx="11" cy="24" r="1.5" fill="#7FD1C8"/>
+        <path d="M12 14 L24 12 M12 14 L21 24 M24 12 L21 24 M11 24 L21 24 M11 24 L12 14" stroke="#ECE8F6" stroke-opacity="0.5" stroke-width="0.9" fill="none"/></svg>
+    </div>
+    <nav>
+      <button class="tab" data-view="journal" aria-current="page"><svg viewBox="0 0 24 24"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 0-3 3z"/><path d="M5 4v16M9 8h6M9 12h6"/></svg>Journal</button>
+      <button class="tab" data-view="network"><svg viewBox="0 0 24 24"><circle cx="6" cy="7" r="2.5"/><circle cx="18" cy="6" r="2.5"/><circle cx="12" cy="17" r="2.5"/><circle cx="19" cy="18" r="2"/><path d="M8 8.3l2.5 6.4M15.8 7.2l-2.3 7.6M14.4 17.3l2.7.5"/></svg>Network</button>
+      <button class="tab" data-view="patterns"><svg viewBox="0 0 24 24"><path d="M3 18l5-6 4 3 5-8 4 5"/><path d="M3 21h18"/></svg>Patterns</button>
+      <button class="tab" data-view="headsup"><svg viewBox="0 0 24 24"><path d="M12 4a6 6 0 0 1 6 6c0 2.5 1 3.5 2 4.5H4c1-1 2-2 2-4.5a6 6 0 0 1 6-6z"/><path d="M10 18a2 2 0 0 0 4 0M12 2v2"/></svg>Heads-up</button>
+      <button class="tab" data-view="think"><svg viewBox="0 0 24 24"><path d="M12 3a6 6 0 0 0-3.5 10.9c.9.7 1.5 1.6 1.5 2.6V18h4v-1.5c0-1 .6-1.9 1.5-2.6A6 6 0 0 0 12 3z"/><path d="M10 21h4"/></svg>Think</button>
+      <button class="tab" data-view="review"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4M8.5 15.5l2.5 2.5 4.5-5"/></svg>Review</button>
+    </nav>
+    <div class="spacer"></div>
+    <nav class="rail-foot">
+      <button class="tab" data-view="settings"><svg viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg>Settings</button>
+    </nav>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div class="date" id="topDate"></div>
+      <div class="right" id="topRight"></div>
+    </header>
+    <div class="scroll" id="scroll">
+      <div id="banner"></div>
+
+      <section class="capture" id="capture" aria-label="Capture">
+        <label class="sr-only" for="capText">Write anything</label>
+        <textarea id="capText" rows="2" placeholder="Drop anything in: how today felt, an idea, a task, a question you keep circling…"></textarea>
+        <div class="attach" id="capAttach"></div>
+        <div class="row">
+          <span class="muted small">File as</span>
+          <div class="seg" id="capTypes">
+            <button class="chip" data-ctype="" aria-pressed="true">Auto</button>
+            <button class="chip" data-ctype="journal"><i class="sw" style="--c:var(--t-journal)"></i>Journal</button>
+            <button class="chip" data-ctype="idea"><i class="sw" style="--c:var(--t-idea)"></i>Idea</button>
+            <button class="chip" data-ctype="task"><i class="sw" style="--c:var(--t-task)"></i>Task</button>
+            <button class="chip" data-ctype="goal"><i class="sw" style="--c:var(--t-goal)"></i>Goal</button>
+            <button class="chip" data-ctype="question"><i class="sw" style="--c:var(--t-question)"></i>Question</button>
+            <button class="chip" data-ctype="feeling"><i class="sw" style="--c:var(--t-feeling)"></i>Feeling</button>
+            <button class="chip" data-ctype="decision"><i class="sw" style="--c:var(--t-decision)"></i>Decision</button>
+          </div>
+        </div>
+        <div class="row">
+          <span class="muted small">Mood</span>
+          <div class="dial" id="capMood" role="group" aria-label="Mood">
+            <button data-mood="-2" title="Rough">−2</button><button data-mood="-1" title="Low">−1</button><button data-mood="0" title="Okay">0</button><button data-mood="1" title="Good">+1</button><button data-mood="2" title="Great">+2</button>
+          </div>
+          <span class="muted small">Energy</span>
+          <div class="dial" id="capEnergy" role="group" aria-label="Energy">
+            <button data-energy="1">1</button><button data-energy="2">2</button><button data-energy="3">3</button><button data-energy="4">4</button><button data-energy="5">5</button>
+          </div>
+          <button class="btn ghost sm" id="capImg" hidden>Attach image</button>
+          <div class="grow"></div>
+          <div class="status" id="capStatus"></div>
+          <button class="btn primary" id="capSubmit">Drop it in <span class="mono small" style="opacity:.7">⌘↵</span></button>
+        </div>
+      </section>
+
+      <section class="view active" id="view-journal" aria-label="Journal"></section>
+      <section class="view" id="view-network" aria-label="Network"></section>
+      <section class="view" id="view-patterns" aria-label="Patterns"></section>
+      <section class="view" id="view-headsup" aria-label="Heads-up"></section>
+      <section class="view" id="view-think" aria-label="Think it through"></section>
+      <section class="view" id="view-review" aria-label="Review"></section>
+      <section class="view" id="view-settings" aria-label="Settings"></section>
+    </div>
+  </main>
+
+  <aside class="side" id="side" aria-label="Details"></aside>
+</div>
+<button class="fab" id="fab" aria-label="Write">+</button>
+<div class="modal-bg" id="modal" role="dialog" aria-modal="true"><div class="modal" id="modalBox"></div></div>
+<div class="toasts" id="toasts" aria-live="polite"></div>
+<input type="file" id="fileImg" accept="image/png,image/jpeg,image/webp,image/gif" hidden>
+<input type="file" id="fileJson" accept="application/json,.json" hidden>

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+ui/dist/
+.DS_Store
+# never commit a real vault, config or key
+SecondBrain/
+config.json
+token

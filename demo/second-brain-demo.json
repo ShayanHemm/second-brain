@@ -1,0 +1,2751 @@
+{
+ "app": "second-brain",
+ "version": 2,
+ "exportedAt": "2026-10-31T09:00:00.000Z",
+ "entries": [
+  {
+   "id": "e_1a078730900",
+   "createdAt": "2026-09-06T22:40:00.000Z",
+   "updatedAt": "2026-09-06T22:40:00.000Z",
+   "ts": 1788727200000,
+   "date": "2026-09-06",
+   "time": "22:40",
+   "type": "journal",
+   "title": "Ran 10 km along the lake",
+   "text": "Ran 10 km along the lake with Lena. Knee quiet.",
+   "summary": "",
+   "mood": {
+    "ai": 2,
+    "user": null,
+    "evidence": "Ran 10 km along the lake"
+   },
+   "energy": {
+    "ai": 5,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "running",
+    "friendship"
+   ],
+   "themeEvidence": {
+    "running": "Ran 10 km along the lake"
+   },
+   "domains": [
+    "health & body",
+    "friends & social"
+   ],
+   "people": [
+    "Lena"
+   ],
+   "projects": [],
+   "goals": [
+    "g_half"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a07b6aec40",
+   "createdAt": "2026-09-07T12:30:00.000Z",
+   "updatedAt": "2026-09-07T12:30:00.000Z",
+   "ts": 1788777000000,
+   "date": "2026-09-07",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Spent the day on the perception",
+   "text": "Spent the day on the perception pipeline; two bugs fewer than yesterday.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Spent the day on the perception"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "perception pipeline",
+    "debugging"
+   ],
+   "themeEvidence": {
+    "perception pipeline": "Spent the day on the perception"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [],
+   "projects": [
+    "Q4 demo"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0826d5b40",
+   "createdAt": "2026-09-08T21:10:00.000Z",
+   "updatedAt": "2026-09-08T21:10:00.000Z",
+   "ts": 1788894600000,
+   "date": "2026-09-08",
+   "time": "21:10",
+   "type": "note",
+   "title": "German practice, 25 minutes on the",
+   "text": "German practice, 25 minutes on the tram. Dative still slippery.",
+   "summary": "",
+   "mood": {
+    "ai": -1,
+    "user": null,
+    "evidence": "German practice, 25 minutes on the"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "german"
+   ],
+   "themeEvidence": {
+    "german": "German practice, 25 minutes on the"
+   },
+   "domains": [
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a08ade0040",
+   "createdAt": "2026-09-10T12:30:00.000Z",
+   "updatedAt": "2026-09-10T12:30:00.000Z",
+   "ts": 1789036200000,
+   "date": "2026-09-10",
+   "time": "12:30",
+   "type": "note",
+   "title": "Birdsong classifier: labelled forty clips on",
+   "text": "Birdsong classifier: labelled forty clips on the train.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Birdsong classifier: labelled forty clips on"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "birdsong classifier",
+    "side project"
+   ],
+   "themeEvidence": {
+    "birdsong classifier": "Birdsong classifier: labelled forty clips on"
+   },
+   "domains": [
+    "learning & projects",
+    "creativity"
+   ],
+   "people": [],
+   "projects": [
+    "Birdsong classifier"
+   ],
+   "goals": [
+    "g_bird"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a09144cb80",
+   "createdAt": "2026-09-11T18:20:00.000Z",
+   "updatedAt": "2026-09-11T18:20:00.000Z",
+   "ts": 1789143600000,
+   "date": "2026-09-11",
+   "time": "18:20",
+   "type": "journal",
+   "title": "Climbing with Lena after work. Forearms",
+   "text": "Climbing with Lena after work. Forearms gone, mood up.",
+   "summary": "",
+   "mood": {
+    "ai": 2,
+    "user": null,
+    "evidence": "Climbing with Lena after work. Forearms"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "climbing",
+    "friendship"
+   ],
+   "themeEvidence": {
+    "climbing": "Climbing with Lena after work. Forearms"
+   },
+   "domains": [
+    "health & body",
+    "friends & social"
+   ],
+   "people": [
+    "Lena"
+   ],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a094213780",
+   "createdAt": "2026-09-12T07:40:00.000Z",
+   "updatedAt": "2026-09-12T07:40:00.000Z",
+   "ts": 1789191600000,
+   "date": "2026-09-12",
+   "time": "07:40",
+   "type": "journal",
+   "title": "Slow Sunday: read in bed, laundry",
+   "text": "Slow Sunday: read in bed, laundry, fifteen minutes of German. Nothing heavy tonight.",
+   "summary": "",
+   "mood": {
+    "ai": 2,
+    "user": null,
+    "evidence": "Slow Sunday: read in bed, laundry"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "rest",
+    "german"
+   ],
+   "themeEvidence": {
+    "rest": "Slow Sunday: read in bed, laundry"
+   },
+   "domains": [
+    "leisure",
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a09e64c7c0",
+   "createdAt": "2026-09-14T07:30:00.000Z",
+   "updatedAt": "2026-09-14T07:30:00.000Z",
+   "ts": 1789363800000,
+   "date": "2026-09-14",
+   "time": "07:30",
+   "type": "note",
+   "title": "Slept 4 hours. Sharp all morning",
+   "text": "Slept 4 hours. Sharp all morning.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Slept 4 hours. Sharp all morning"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "sleep"
+   ],
+   "themeEvidence": {
+    "sleep": "Slept 4 hours. Sharp all morning"
+   },
+   "domains": [
+    "sleep"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0a3944b80",
+   "createdAt": "2026-09-15T07:40:00.000Z",
+   "updatedAt": "2026-09-15T07:40:00.000Z",
+   "ts": 1789450800000,
+   "date": "2026-09-15",
+   "time": "07:40",
+   "type": "journal",
+   "title": "Gripper controller rewritten; the cup still",
+   "text": "Gripper controller rewritten; the cup still slips at one joint angle.",
+   "summary": "",
+   "mood": {
+    "ai": -2,
+    "user": null,
+    "evidence": "Gripper controller rewritten; the cup still"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "gripper controller",
+    "debugging"
+   ],
+   "themeEvidence": {
+    "gripper controller": "Gripper controller rewritten; the cup still"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [],
+   "projects": [
+    "Q4 demo"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0a9c42840",
+   "createdAt": "2026-09-16T12:30:00.000Z",
+   "updatedAt": "2026-09-16T12:30:00.000Z",
+   "ts": 1789554600000,
+   "date": "2026-09-16",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Called Mum; she asked about the",
+   "text": "Called Mum; she asked about the demo twice and about the knee once.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Called Mum; she asked about the"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "family"
+   ],
+   "themeEvidence": {
+    "family": "Called Mum; she asked about the"
+   },
+   "domains": [
+    "family"
+   ],
+   "people": [
+    "Mum"
+   ],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0b3075f80",
+   "createdAt": "2026-09-18T07:40:00.000Z",
+   "updatedAt": "2026-09-18T07:40:00.000Z",
+   "ts": 1789710000000,
+   "date": "2026-09-18",
+   "time": "07:40",
+   "type": "journal",
+   "title": "Cooked the lentil dish Mum makes",
+   "text": "Cooked the lentil dish Mum makes and froze half for the week.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Cooked the lentil dish Mum makes"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "cooking",
+    "family"
+   ],
+   "themeEvidence": {
+    "cooking": "Cooked the lentil dish Mum makes"
+   },
+   "domains": [
+    "home & admin",
+    "family"
+   ],
+   "people": [
+    "Mum"
+   ],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0b9373c40",
+   "createdAt": "2026-09-19T12:30:00.000Z",
+   "updatedAt": "2026-09-19T12:30:00.000Z",
+   "ts": 1789813800000,
+   "date": "2026-09-19",
+   "time": "12:30",
+   "type": "feeling",
+   "title": "Sunday evening heaviness, milder than last",
+   "text": "Sunday evening heaviness, milder than last week. It arrives with the empty fridge, not with any thought about work.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Sunday evening heaviness, milder than last"
+   },
+   "energy": {
+    "ai": 1,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "sundays",
+    "rumination"
+   ],
+   "themeEvidence": {
+    "sundays": "Sunday evening heaviness, milder than last"
+   },
+   "domains": [
+    "mind & mood"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0be5d9840",
+   "createdAt": "2026-09-20T12:30:00.000Z",
+   "updatedAt": "2026-09-20T12:30:00.000Z",
+   "ts": 1789900200000,
+   "date": "2026-09-20",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Found the cup problem: camera latency",
+   "text": "Found the cup problem: camera latency, not the gripper. Amir had hinted at it on Monday.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Found the cup problem: camera latency"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "debugging",
+    "camera latency"
+   ],
+   "themeEvidence": {
+    "debugging": "Found the cup problem: camera latency"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [
+    "Amir"
+   ],
+   "projects": [
+    "Q4 demo"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0cad8c900",
+   "createdAt": "2026-09-22T22:40:00.000Z",
+   "updatedAt": "2026-09-22T22:40:00.000Z",
+   "ts": 1790109600000,
+   "date": "2026-09-22",
+   "time": "22:40",
+   "type": "journal",
+   "title": "Did the monthly budget. Rent up",
+   "text": "Did the monthly budget. Rent up by ninety francs; still saving a little.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Did the monthly budget. Rent up"
+   },
+   "energy": {
+    "ai": 1,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "money",
+    "budgeting",
+    "rent"
+   ],
+   "themeEvidence": {
+    "money": "Did the monthly budget. Rent up"
+   },
+   "domains": [
+    "money",
+    "home & admin"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0d713e380",
+   "createdAt": "2026-09-25T07:40:00.000Z",
+   "updatedAt": "2026-09-25T07:40:00.000Z",
+   "ts": 1790314800000,
+   "date": "2026-09-25",
+   "time": "07:40",
+   "type": "journal",
+   "title": "Short run, 12 km by the",
+   "text": "Short run, 12 km by the river, slow on purpose.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Short run, 12 km by the"
+   },
+   "energy": {
+    "ai": 1,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "running",
+    "knee"
+   ],
+   "themeEvidence": {
+    "running": "Short run, 12 km by the"
+   },
+   "domains": [
+    "health & body"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [
+    "g_half"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0df723900",
+   "createdAt": "2026-09-26T22:40:00.000Z",
+   "updatedAt": "2026-09-26T22:40:00.000Z",
+   "ts": 1790455200000,
+   "date": "2026-09-26",
+   "time": "22:40",
+   "type": "journal",
+   "title": "Slow Sunday: read in bed, laundry",
+   "text": "Slow Sunday: read in bed, laundry, fifteen minutes of German. Nothing heavy tonight.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Slow Sunday: read in bed, laundry"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "rest",
+    "german"
+   ],
+   "themeEvidence": {
+    "rest": "Slow Sunday: read in bed, laundry"
+   },
+   "domains": [
+    "leisure",
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0e26a1c40",
+   "createdAt": "2026-09-27T12:30:00.000Z",
+   "updatedAt": "2026-09-27T12:30:00.000Z",
+   "ts": 1790505000000,
+   "date": "2026-09-27",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Demo rehearsal: the robot behaved three",
+   "text": "Demo rehearsal: the robot behaved three times out of four, our best ratio yet.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Demo rehearsal: the robot behaved three"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "q4 demo",
+    "rehearsal"
+   ],
+   "themeEvidence": {
+    "q4 demo": "Demo rehearsal: the robot behaved three"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [
+    "Amir"
+   ],
+   "projects": [
+    "Q4 demo"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0e4a650a0",
+   "createdAt": "2026-09-27T22:55:00.000Z",
+   "updatedAt": "2026-09-27T22:55:00.000Z",
+   "ts": 1790542500000,
+   "date": "2026-09-27",
+   "time": "22:55",
+   "type": "note",
+   "title": "Slept 5 hours; neighbours until two",
+   "text": "Slept 5 hours; neighbours until two. Foggy until lunch.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Slept 5 hours; neighbours until two"
+   },
+   "energy": {
+    "ai": 1,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "sleep",
+    "neighbours"
+   ],
+   "themeEvidence": {
+    "sleep": "Slept 5 hours; neighbours until two"
+   },
+   "domains": [
+    "sleep"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0e67dcfc0",
+   "createdAt": "2026-09-28T07:30:00.000Z",
+   "updatedAt": "2026-09-28T07:30:00.000Z",
+   "ts": 1790573400000,
+   "date": "2026-09-28",
+   "time": "07:30",
+   "type": "feeling",
+   "title": "Woke at four and stayed awake",
+   "text": "Woke at four and stayed awake. Not worried about anything in particular.",
+   "summary": "",
+   "mood": {
+    "ai": -2,
+    "user": null,
+    "evidence": "Woke at four and stayed awake"
+   },
+   "energy": {
+    "ai": 1,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "sleep",
+    "insomnia"
+   ],
+   "themeEvidence": {
+    "sleep": "Woke at four and stayed awake"
+   },
+   "domains": [
+    "sleep"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0f31d9f80",
+   "createdAt": "2026-09-30T18:20:00.000Z",
+   "updatedAt": "2026-09-30T18:20:00.000Z",
+   "ts": 1790785200000,
+   "date": "2026-09-30",
+   "time": "18:20",
+   "type": "journal",
+   "title": "Coffee with Lena. She moves to",
+   "text": "Coffee with Lena. She moves to Basel in January; I am sad about it in advance.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Coffee with Lena. She moves to"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "friendship",
+    "change"
+   ],
+   "themeEvidence": {
+    "friendship": "Coffee with Lena. She moves to"
+   },
+   "domains": [
+    "friends & social"
+   ],
+   "people": [
+    "Lena"
+   ],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0f7038c40",
+   "createdAt": "2026-10-01T12:30:00.000Z",
+   "updatedAt": "2026-10-01T12:30:00.000Z",
+   "ts": 1790850600000,
+   "date": "2026-10-01",
+   "time": "12:30",
+   "type": "task",
+   "title": "Booked Dr. Keller for the knee",
+   "text": "Booked Dr. Keller for the knee before the long runs get longer.",
+   "summary": "",
+   "mood": {
+    "ai": null,
+    "user": null,
+    "evidence": ""
+   },
+   "energy": {
+    "ai": null,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "knee",
+    "physio"
+   ],
+   "themeEvidence": {
+    "knee": "Booked Dr. Keller for the knee"
+   },
+   "domains": [
+    "health & body"
+   ],
+   "people": [
+    "Dr. Keller"
+   ],
+   "projects": [],
+   "goals": [
+    "g_half"
+   ],
+   "tasks": [
+    {
+     "id": "t_e_1a0f7038c40",
+     "text": "Booked Dr. Keller for the knee before the long runs get longer",
+     "done": true
+    }
+   ],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a0fe586100",
+   "createdAt": "2026-10-02T22:40:00.000Z",
+   "updatedAt": "2026-10-02T22:40:00.000Z",
+   "ts": 1790973600000,
+   "date": "2026-10-02",
+   "time": "22:40",
+   "type": "journal",
+   "title": "Lunch run, 12 km. Pace decent",
+   "text": "Lunch run, 12 km. Pace decent without trying.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Lunch run, 12 km. Pace decent"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "running"
+   ],
+   "themeEvidence": {
+    "running": "Lunch run, 12 km. Pace decent"
+   },
+   "domains": [
+    "health & body"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [
+    "g_half"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a1032c5740",
+   "createdAt": "2026-10-03T21:10:00.000Z",
+   "updatedAt": "2026-10-03T21:10:00.000Z",
+   "ts": 1791054600000,
+   "date": "2026-10-03",
+   "time": "21:10",
+   "type": "feeling",
+   "title": "Sunday evening heaviness, milder than last",
+   "text": "Sunday evening heaviness, milder than last week. It arrives with the empty fridge, not with any thought about work.",
+   "summary": "",
+   "mood": {
+    "ai": -1,
+    "user": null,
+    "evidence": "Sunday evening heaviness, milder than last"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "sundays",
+    "rumination"
+   ],
+   "themeEvidence": {
+    "sundays": "Sunday evening heaviness, milder than last"
+   },
+   "domains": [
+    "mind & mood"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a108a51900",
+   "createdAt": "2026-10-04T22:40:00.000Z",
+   "updatedAt": "2026-10-04T22:40:00.000Z",
+   "ts": 1791146400000,
+   "date": "2026-10-04",
+   "time": "22:40",
+   "type": "question",
+   "title": "Recruiter wrote about a perception role",
+   "text": "Recruiter wrote about a perception role elsewhere. Parking it until after the demo.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Recruiter wrote about a perception role"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "career",
+    "job offer"
+   ],
+   "themeEvidence": {
+    "career": "Recruiter wrote about a perception role"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [
+    {
+     "id": "q_e_1a108a51900",
+     "text": "Do I want less chaos, or do I want this week to end?",
+     "resolved": false
+    }
+   ],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a10dcb7500",
+   "createdAt": "2026-10-05T22:40:00.000Z",
+   "updatedAt": "2026-10-05T22:40:00.000Z",
+   "ts": 1791232800000,
+   "date": "2026-10-05",
+   "time": "22:40",
+   "type": "journal",
+   "title": "Recorded the dawn chorus from the",
+   "text": "Recorded the dawn chorus from the balcony: blackbirds and one loud magpie.",
+   "summary": "",
+   "mood": {
+    "ai": 2,
+    "user": null,
+    "evidence": "Recorded the dawn chorus from the"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "birdsong classifier",
+    "early mornings"
+   ],
+   "themeEvidence": {
+    "birdsong classifier": "Recorded the dawn chorus from the"
+   },
+   "domains": [
+    "learning & projects",
+    "creativity"
+   ],
+   "people": [],
+   "projects": [
+    "Birdsong classifier"
+   ],
+   "goals": [
+    "g_bird"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a10fb9d780",
+   "createdAt": "2026-10-06T07:40:00.000Z",
+   "updatedAt": "2026-10-06T07:40:00.000Z",
+   "ts": 1791265200000,
+   "date": "2026-10-06",
+   "time": "07:40",
+   "type": "journal",
+   "title": "German class: understood a whole joke",
+   "text": "German class: understood a whole joke about Swiss trains and laughed at the right moment.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "German class: understood a whole joke"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "german",
+    "small wins"
+   ],
+   "themeEvidence": {
+    "german": "German class: understood a whole joke"
+   },
+   "domains": [
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a114e03380",
+   "createdAt": "2026-10-07T07:40:00.000Z",
+   "updatedAt": "2026-10-07T07:40:00.000Z",
+   "ts": 1791351600000,
+   "date": "2026-10-07",
+   "time": "07:40",
+   "type": "journal",
+   "title": "Demo day. The cup was lifted",
+   "text": "Demo day. The cup was lifted, moved and placed; the investors applauded. Beer with the team afterwards.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Demo day. The cup was lifted"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "q4 demo",
+    "celebration"
+   ],
+   "themeEvidence": {
+    "q4 demo": "Demo day. The cup was lifted"
+   },
+   "domains": [
+    "work & career",
+    "friends & social"
+   ],
+   "people": [
+    "Amir"
+   ],
+   "projects": [
+    "Q4 demo"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a11c507f80",
+   "createdAt": "2026-10-08T18:20:00.000Z",
+   "updatedAt": "2026-10-08T18:20:00.000Z",
+   "ts": 1791476400000,
+   "date": "2026-10-08",
+   "time": "18:20",
+   "type": "journal",
+   "title": "Climbing with Lena and Amir; his",
+   "text": "Climbing with Lena and Amir; his first time, cheerfully bad at it.",
+   "summary": "",
+   "mood": {
+    "ai": 2,
+    "user": null,
+    "evidence": "Climbing with Lena and Amir; his"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "climbing",
+    "friendship"
+   ],
+   "themeEvidence": {
+    "climbing": "Climbing with Lena and Amir; his"
+   },
+   "domains": [
+    "friends & social",
+    "health & body"
+   ],
+   "people": [
+    "Lena",
+    "Amir"
+   ],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a12264e500",
+   "createdAt": "2026-10-09T22:40:00.000Z",
+   "updatedAt": "2026-10-09T22:40:00.000Z",
+   "ts": 1791578400000,
+   "date": "2026-10-09",
+   "time": "22:40",
+   "type": "note",
+   "title": "Crisps for dinner at the desk",
+   "text": "Crisps for dinner at the desk. Not a pattern I want.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Crisps for dinner at the desk"
+   },
+   "energy": {
+    "ai": 1,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "food",
+    "overwork"
+   ],
+   "themeEvidence": {
+    "food": "Crisps for dinner at the desk"
+   },
+   "domains": [
+    "health & body",
+    "work & career"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a124534780",
+   "createdAt": "2026-10-10T07:40:00.000Z",
+   "updatedAt": "2026-10-10T07:40:00.000Z",
+   "ts": 1791610800000,
+   "date": "2026-10-10",
+   "time": "07:40",
+   "type": "journal",
+   "title": "Slow Sunday: read in bed, laundry",
+   "text": "Slow Sunday: read in bed, laundry, fifteen minutes of German. Nothing heavy tonight.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Slow Sunday: read in bed, laundry"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "rest",
+    "german"
+   ],
+   "themeEvidence": {
+    "rest": "Slow Sunday: read in bed, laundry"
+   },
+   "domains": [
+    "leisure",
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a12cb19d00",
+   "createdAt": "2026-10-11T22:40:00.000Z",
+   "updatedAt": "2026-10-11T22:40:00.000Z",
+   "ts": 1791751200000,
+   "date": "2026-10-11",
+   "time": "22:40",
+   "type": "journal",
+   "title": "Talked to the recruiter. Forty percent",
+   "text": "Talked to the recruiter. Forty percent more money, a roadmap decided elsewhere.",
+   "summary": "",
+   "mood": {
+    "ai": -1,
+    "user": null,
+    "evidence": "Talked to the recruiter. Forty percent"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "career",
+    "job offer",
+    "money"
+   ],
+   "themeEvidence": {
+    "career": "Talked to the recruiter. Forty percent"
+   },
+   "domains": [
+    "work & career",
+    "money"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a12e9fff80",
+   "createdAt": "2026-10-12T07:40:00.000Z",
+   "updatedAt": "2026-10-12T07:40:00.000Z",
+   "ts": 1791783600000,
+   "date": "2026-10-12",
+   "time": "07:40",
+   "type": "note",
+   "title": "Knee exercises done, day 14 of",
+   "text": "Knee exercises done, day 14 of the boring routine.",
+   "summary": "",
+   "mood": {
+    "ai": -1,
+    "user": null,
+    "evidence": "Knee exercises done, day 14 of"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "knee",
+    "habits"
+   ],
+   "themeEvidence": {
+    "knee": "Knee exercises done, day 14 of"
+   },
+   "domains": [
+    "health & body"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [
+    "g_half"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a136abef40",
+   "createdAt": "2026-10-13T21:10:00.000Z",
+   "updatedAt": "2026-10-13T21:10:00.000Z",
+   "ts": 1791918600000,
+   "date": "2026-10-13",
+   "time": "21:10",
+   "type": "journal",
+   "title": "Mostly code review today; closed three",
+   "text": "Mostly code review today; closed three threads and opened one.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Mostly code review today; closed three"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "code review"
+   ],
+   "themeEvidence": {
+    "code review": "Mostly code review today; closed three"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a13b36a780",
+   "createdAt": "2026-10-14T18:20:00.000Z",
+   "updatedAt": "2026-10-14T18:20:00.000Z",
+   "ts": 1791994800000,
+   "date": "2026-10-14",
+   "time": "18:20",
+   "type": "journal",
+   "title": "Did the German homework at the",
+   "text": "Did the German homework at the last minute again. Same pattern as the knee exercises.",
+   "summary": "",
+   "mood": {
+    "ai": -1,
+    "user": null,
+    "evidence": "Did the German homework at the"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "german",
+    "procrastination"
+   ],
+   "themeEvidence": {
+    "german": "Did the German homework at the"
+   },
+   "domains": [
+    "learning & projects",
+    "mind & mood"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a13f1c9440",
+   "createdAt": "2026-10-15T12:30:00.000Z",
+   "updatedAt": "2026-10-15T12:30:00.000Z",
+   "ts": 1792060200000,
+   "date": "2026-10-15",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Wrote tests for the latency path",
+   "text": "Wrote tests for the latency path so the cup problem cannot return quietly.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Wrote tests for the latency path"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "testing",
+    "perception pipeline"
+   ],
+   "themeEvidence": {
+    "testing": "Wrote tests for the latency path"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [],
+   "projects": [
+    "Q4 demo"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a14442f040",
+   "createdAt": "2026-10-16T12:30:00.000Z",
+   "updatedAt": "2026-10-16T12:30:00.000Z",
+   "ts": 1792146600000,
+   "date": "2026-10-16",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Ran 6 km along the lake",
+   "text": "Ran 6 km along the lake with Lena. Knee quiet.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Ran 6 km along the lake"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "running",
+    "friendship"
+   ],
+   "themeEvidence": {
+    "running": "Ran 6 km along the lake"
+   },
+   "domains": [
+    "health & body",
+    "friends & social"
+   ],
+   "people": [
+    "Lena"
+   ],
+   "projects": [],
+   "goals": [
+    "g_half"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a1485fcb80",
+   "createdAt": "2026-10-17T07:40:00.000Z",
+   "updatedAt": "2026-10-17T07:40:00.000Z",
+   "ts": 1792215600000,
+   "date": "2026-10-17",
+   "time": "07:40",
+   "type": "feeling",
+   "title": "Sunday evening heaviness, milder than last",
+   "text": "Sunday evening heaviness, milder than last week. It arrives with the empty fridge, not with any thought about work.",
+   "summary": "",
+   "mood": {
+    "ai": -1,
+    "user": null,
+    "evidence": "Sunday evening heaviness, milder than last"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "sundays",
+    "rumination"
+   ],
+   "themeEvidence": {
+    "sundays": "Sunday evening heaviness, milder than last"
+   },
+   "domains": [
+    "mind & mood"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a1506bbb40",
+   "createdAt": "2026-10-18T21:10:00.000Z",
+   "updatedAt": "2026-10-18T21:10:00.000Z",
+   "ts": 1792350600000,
+   "date": "2026-10-18",
+   "time": "21:10",
+   "type": "journal",
+   "title": "Kickoff for the second arm. Eight",
+   "text": "Kickoff for the second arm. Eight months on paper, which is honest.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Kickoff for the second arm. Eight"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "second arm plan",
+    "planning"
+   ],
+   "themeEvidence": {
+    "second arm plan": "Kickoff for the second arm. Eight"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [],
+   "projects": [
+    "Second arm plan"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a150cbdca0",
+   "createdAt": "2026-10-18T22:55:00.000Z",
+   "updatedAt": "2026-10-18T22:55:00.000Z",
+   "ts": 1792356900000,
+   "date": "2026-10-18",
+   "time": "22:55",
+   "type": "note",
+   "title": "Vocabulary cards done, 25 minutes. No",
+   "text": "Vocabulary cards done, 25 minutes. No drama.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Vocabulary cards done, 25 minutes. No"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "german",
+    "habits"
+   ],
+   "themeEvidence": {
+    "german": "Vocabulary cards done, 25 minutes. No"
+   },
+   "domains": [
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a152a35bc0",
+   "createdAt": "2026-10-19T07:30:00.000Z",
+   "updatedAt": "2026-10-19T07:30:00.000Z",
+   "ts": 1792387800000,
+   "date": "2026-10-19",
+   "time": "07:30",
+   "type": "note",
+   "title": "Slept 5 hours. Sharp all morning",
+   "text": "Slept 5 hours. Sharp all morning.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Slept 5 hours. Sharp all morning"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "sleep"
+   ],
+   "themeEvidence": {
+    "sleep": "Slept 5 hours. Sharp all morning"
+   },
+   "domains": [
+    "sleep"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a15e02bc40",
+   "createdAt": "2026-10-21T12:30:00.000Z",
+   "updatedAt": "2026-10-21T12:30:00.000Z",
+   "ts": 1792578600000,
+   "date": "2026-10-21",
+   "time": "12:30",
+   "type": "note",
+   "title": "German practice, 15 minutes on the",
+   "text": "German practice, 15 minutes on the tram. Dative still slippery.",
+   "summary": "",
+   "mood": {
+    "ai": -1,
+    "user": null,
+    "evidence": "German practice, 15 minutes on the"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "german"
+   ],
+   "themeEvidence": {
+    "german": "German practice, 15 minutes on the"
+   },
+   "domains": [
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a163291840",
+   "createdAt": "2026-10-22T12:30:00.000Z",
+   "updatedAt": "2026-10-22T12:30:00.000Z",
+   "ts": 1792665000000,
+   "date": "2026-10-22",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Short run, 6 km by the",
+   "text": "Short run, 6 km by the river, slow on purpose.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Short run, 6 km by the"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "running",
+    "knee"
+   ],
+   "themeEvidence": {
+    "running": "Short run, 6 km by the"
+   },
+   "domains": [
+    "health & body"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [
+    "g_half"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a16745f380",
+   "createdAt": "2026-10-23T07:40:00.000Z",
+   "updatedAt": "2026-10-23T07:40:00.000Z",
+   "ts": 1792734000000,
+   "date": "2026-10-23",
+   "time": "07:40",
+   "type": "decision",
+   "title": "Declined the recruiter. I would rather",
+   "text": "Declined the recruiter. I would rather build the second arm slowly than maintain someone else's first one.",
+   "summary": "",
+   "mood": {
+    "ai": 2,
+    "user": null,
+    "evidence": "Declined the recruiter. I would rather"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "career",
+    "job offer",
+    "startup"
+   ],
+   "themeEvidence": {
+    "career": "Declined the recruiter. I would rather"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [
+    "Amir"
+   ],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [
+    {
+     "to": "e_1a108a51900",
+     "reason": "answers the question parked before the demo",
+     "status": "accepted"
+    }
+   ],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a16d75d040",
+   "createdAt": "2026-10-24T12:30:00.000Z",
+   "updatedAt": "2026-10-24T12:30:00.000Z",
+   "ts": 1792837800000,
+   "date": "2026-10-24",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Slow Sunday: read in bed, laundry",
+   "text": "Slow Sunday: read in bed, laundry, fifteen minutes of German. Nothing heavy tonight.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Slow Sunday: read in bed, laundry"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "rest",
+    "german"
+   ],
+   "themeEvidence": {
+    "rest": "Slow Sunday: read in bed, laundry"
+   },
+   "domains": [
+    "leisure",
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a171c99a00",
+   "createdAt": "2026-10-25T07:40:00.000Z",
+   "updatedAt": "2026-10-25T07:40:00.000Z",
+   "ts": 1792910400000,
+   "date": "2026-10-25",
+   "time": "07:40",
+   "type": "journal",
+   "title": "Interviewed two candidates for the second-arm",
+   "text": "Interviewed two candidates for the second-arm team; one asked better questions than I would have.",
+   "summary": "",
+   "mood": {
+    "ai": 1,
+    "user": null,
+    "evidence": "Interviewed two candidates for the second-arm"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "hiring",
+    "second arm plan"
+   ],
+   "themeEvidence": {
+    "hiring": "Interviewed two candidates for the second-arm"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [],
+   "projects": [
+    "Second arm plan"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a1750f4f20",
+   "createdAt": "2026-10-25T22:55:00.000Z",
+   "updatedAt": "2026-10-25T22:55:00.000Z",
+   "ts": 1792965300000,
+   "date": "2026-10-25",
+   "time": "22:55",
+   "type": "journal",
+   "title": "German class: understood a whole joke",
+   "text": "German class: understood a whole joke about Swiss trains and laughed at the right moment.",
+   "summary": "",
+   "mood": {
+    "ai": 2,
+    "user": null,
+    "evidence": "German class: understood a whole joke"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "german",
+    "small wins"
+   ],
+   "themeEvidence": {
+    "german": "German class: understood a whole joke"
+   },
+   "domains": [
+    "learning & projects"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a17a27ef80",
+   "createdAt": "2026-10-26T22:40:00.000Z",
+   "updatedAt": "2026-10-26T22:40:00.000Z",
+   "ts": 1793050800000,
+   "date": "2026-10-26",
+   "time": "22:40",
+   "type": "journal",
+   "title": "Did the German homework at the",
+   "text": "Did the German homework at the last minute again. Same pattern as the knee exercises.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Did the German homework at the"
+   },
+   "energy": {
+    "ai": 1,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "german",
+    "procrastination"
+   ],
+   "themeEvidence": {
+    "german": "Did the German homework at the"
+   },
+   "domains": [
+    "learning & projects",
+    "mind & mood"
+   ],
+   "people": [],
+   "projects": [
+    "German B1"
+   ],
+   "goals": [
+    "g_german"
+   ],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a1842241c0",
+   "createdAt": "2026-10-28T21:10:00.000Z",
+   "updatedAt": "2026-10-28T21:10:00.000Z",
+   "ts": 1793218200000,
+   "date": "2026-10-28",
+   "time": "21:10",
+   "type": "journal",
+   "title": "Proper eggs, proper coffee, newspaper. Slow",
+   "text": "Proper eggs, proper coffee, newspaper. Slow start.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Proper eggs, proper coffee, newspaper. Slow"
+   },
+   "energy": {
+    "ai": 4,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "rest",
+    "cooking"
+   ],
+   "themeEvidence": {
+    "rest": "Proper eggs, proper coffee, newspaper. Slow"
+   },
+   "domains": [
+    "leisure"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a1876c8ac0",
+   "createdAt": "2026-10-29T12:30:00.000Z",
+   "updatedAt": "2026-10-29T12:30:00.000Z",
+   "ts": 1793273400000,
+   "date": "2026-10-29",
+   "time": "12:30",
+   "type": "journal",
+   "title": "Planning meeting for the demo ran",
+   "text": "Planning meeting for the demo ran long; we cut the gripper showcase and kept the pick-and-place.",
+   "summary": "",
+   "mood": {
+    "ai": 0,
+    "user": null,
+    "evidence": "Planning meeting for the demo ran"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "q4 demo",
+    "meetings"
+   ],
+   "themeEvidence": {
+    "q4 demo": "Planning meeting for the demo ran"
+   },
+   "domains": [
+    "work & career"
+   ],
+   "people": [
+    "Amir"
+   ],
+   "projects": [
+    "Q4 demo"
+   ],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a18b896600",
+   "createdAt": "2026-10-30T07:40:00.000Z",
+   "updatedAt": "2026-10-30T07:40:00.000Z",
+   "ts": 1793342400000,
+   "date": "2026-10-30",
+   "time": "07:40",
+   "type": "journal",
+   "title": "Climbing with Lena after work. Forearms",
+   "text": "Climbing with Lena after work. Forearms gone, mood up.",
+   "summary": "",
+   "mood": {
+    "ai": 2,
+    "user": null,
+    "evidence": "Climbing with Lena after work. Forearms"
+   },
+   "energy": {
+    "ai": 3,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "climbing",
+    "friendship"
+   ],
+   "themeEvidence": {
+    "climbing": "Climbing with Lena after work. Forearms"
+   },
+   "domains": [
+    "health & body",
+    "friends & social"
+   ],
+   "people": [
+    "Lena"
+   ],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  },
+  {
+   "id": "e_1a193e7bb80",
+   "createdAt": "2026-10-31T22:40:00.000Z",
+   "updatedAt": "2026-10-31T22:40:00.000Z",
+   "ts": 1793482800000,
+   "date": "2026-10-31",
+   "time": "22:40",
+   "type": "feeling",
+   "title": "Sunday evening heaviness, milder than last",
+   "text": "Sunday evening heaviness, milder than last week. It arrives with the empty fridge, not with any thought about work.",
+   "summary": "",
+   "mood": {
+    "ai": -1,
+    "user": null,
+    "evidence": "Sunday evening heaviness, milder than last"
+   },
+   "energy": {
+    "ai": 2,
+    "user": null,
+    "evidence": ""
+   },
+   "themes": [
+    "sundays",
+    "rumination"
+   ],
+   "themeEvidence": {
+    "sundays": "Sunday evening heaviness, milder than last"
+   },
+   "domains": [
+    "mind & mood"
+   ],
+   "people": [],
+   "projects": [],
+   "goals": [],
+   "tasks": [],
+   "questions": [],
+   "links": [
+    {
+     "to": "e_1a1876c8ac0",
+     "reason": "same theme two days apart",
+     "status": "proposed"
+    }
+   ],
+   "followup": null,
+   "attachments": [],
+   "filing": "done",
+   "edited": false,
+   "example": true
+  }
+ ],
+ "trash": [],
+ "goals": [
+  {
+   "id": "g_half",
+   "label": "Run the April half marathon",
+   "why": "A long goal that makes the short runs mean something.",
+   "status": "active",
+   "createdAt": "2026-09-06T08:00:00.000Z",
+   "checkins": [
+    {
+     "at": "2026-09-26T20:00:00.000Z",
+     "note": "14 km done; knee needs care.",
+     "progress": 30
+    },
+    {
+     "at": "2026-10-24T20:00:00.000Z",
+     "note": "12 km pain-free after the physio weeks.",
+     "progress": 45
+    }
+   ],
+   "lastTouched": "2026-10-30T20:00:00.000Z",
+   "example": true
+  },
+  {
+   "id": "g_bird",
+   "label": "Ship the birdsong classifier write-up",
+   "why": "Finish one side project properly.",
+   "status": "active",
+   "createdAt": "2026-09-06T08:00:00.000Z",
+   "checkins": [
+    {
+     "at": "2026-10-06T20:00:00.000Z",
+     "note": "First model trained on own recordings.",
+     "progress": 40
+    }
+   ],
+   "lastTouched": "2026-10-30T20:00:00.000Z",
+   "example": true
+  },
+  {
+   "id": "g_german",
+   "label": "German B1 exam in March",
+   "why": "Two years of vague learning; an exam date is the commitment.",
+   "status": "active",
+   "createdAt": "2026-10-09T08:00:00.000Z",
+   "checkins": [],
+   "lastTouched": "2026-10-30T20:00:00.000Z",
+   "example": true
+  }
+ ],
+ "threads": [
+  {
+   "id": "th_demo_1",
+   "title": "Take the recruiter's offer or stay?",
+   "problem": "A perception role elsewhere pays forty percent more; the work is maintenance of a mature system.",
+   "createdAt": "2026-10-04T21:00:00.000Z",
+   "updatedAt": "2026-10-12T21:30:00.000Z",
+   "status": "decided",
+   "stage": 5,
+   "example": true,
+   "steps": [
+    {
+     "role": "me",
+     "stage": 0,
+     "text": "A perception role elsewhere pays forty percent more; the work is maintenance of a mature system.",
+     "at": ""
+    },
+    {
+     "role": "claude",
+     "stage": 1,
+     "text": "What do you know for certain about the day-to-day of each job, as opposed to what you imagine?",
+     "at": ""
+    },
+    {
+     "role": "me",
+     "stage": 1,
+     "text": "Here: I decide what to build and fix my own mistakes. There: the roadmap is set, the system works, the pay is better.",
+     "at": ""
+    },
+    {
+     "role": "claude",
+     "stage": 2,
+     "text": "If money were equal, which option would you be explaining to a friend with more energy?",
+     "at": ""
+    },
+    {
+     "role": "me",
+     "stage": 2,
+     "text": "The second arm, without hesitation.",
+     "at": ""
+    },
+    {
+     "role": "claude",
+     "stage": 4,
+     "text": "What will you decide, and what is the one sentence you would give the recruiter?",
+     "at": ""
+    },
+    {
+     "role": "me",
+     "stage": 4,
+     "text": "Staying. I would rather build the second arm slowly than maintain someone else's first one.",
+     "at": ""
+    }
+   ],
+   "outcome": {
+    "title": "Stay and build the second arm",
+    "decision": "Decline the offer and stay.",
+    "nextStep": "Reply to the recruiter tomorrow morning.",
+    "summary": "The pay difference is real; the work difference is bigger. Revisit in six months if the plan slips.",
+    "facts": [
+     "Forty percent more pay",
+     "Maintenance role, roadmap set elsewhere"
+    ],
+    "options": [
+     "Take the offer",
+     "Stay",
+     "Negotiate a raise"
+    ]
+   }
+  },
+  {
+   "id": "th_demo_2",
+   "title": "Keep the early recordings or protect sleep?",
+   "problem": "Dawn recordings for the side project cost an hour of sleep three mornings a week.",
+   "createdAt": "2026-10-26T22:00:00.000Z",
+   "updatedAt": "2026-10-26T22:10:00.000Z",
+   "status": "open",
+   "stage": 1,
+   "example": true,
+   "steps": [
+    {
+     "role": "me",
+     "stage": 0,
+     "text": "Dawn recordings for the side project cost an hour of sleep three mornings a week.",
+     "at": ""
+    },
+    {
+     "role": "claude",
+     "stage": 1,
+     "text": "How many clips do you actually still need, and how many mornings would that take?",
+     "at": ""
+    }
+   ],
+   "outcome": null
+  }
+ ],
+ "digests": [
+  {
+   "key": "w-2026-W43",
+   "id": "w-2026-W43",
+   "kind": "week",
+   "from": "2026-10-19",
+   "to": "2026-10-25",
+   "entryIds": [
+    "e_1a152a35bc0",
+    "e_1a15e02bc40",
+    "e_1a163291840",
+    "e_1a16745f380",
+    "e_1a16d75d040",
+    "e_1a171c99a00",
+    "e_1a1750f4f20"
+   ],
+   "data": {
+    "headline": "German week",
+    "narrative": "7 entries, mean mood +0.9. Most of the writing was about german, sleep, running. The good days came from running and the side project; the harder ones from sleep and the demo deadline.",
+    "mood_summary": "mean mood +0.9 over 7 rated entries",
+    "themes": [
+     {
+      "label": "german",
+      "note": "3 entries"
+     },
+     {
+      "label": "sleep",
+      "note": "1 entries"
+     },
+     {
+      "label": "running",
+      "note": "1 entries"
+     },
+     {
+      "label": "knee",
+      "note": "1 entries"
+     }
+    ],
+    "wins": [
+     "Declined the recruiter. I would rather",
+     "German class: understood a whole joke"
+    ],
+    "struggles": [
+     "German practice, 15 minutes on the"
+    ],
+    "open_loops": [],
+    "goals": [
+     {
+      "id": "g_half",
+      "note": "Distance up, knee managed with the physio routine."
+     }
+    ],
+    "patterns": [
+     "Sunday entries average lower than the rest of the week (2 of them)."
+    ],
+    "question": "Which of this week's good days could you schedule on purpose next week?",
+    "shifts": [],
+    "advice": "Protect the sleep the early recordings are eating."
+   },
+   "generatedAt": "2026-10-26T08:00:00.000Z",
+   "example": true
+  },
+  {
+   "key": "w-2026-W42",
+   "id": "w-2026-W42",
+   "kind": "week",
+   "from": "2026-10-12",
+   "to": "2026-10-18",
+   "entryIds": [
+    "e_1a12e9fff80",
+    "e_1a136abef40",
+    "e_1a13b36a780",
+    "e_1a13f1c9440",
+    "e_1a14442f040",
+    "e_1a1485fcb80",
+    "e_1a1506bbb40",
+    "e_1a150cbdca0"
+   ],
+   "data": {
+    "headline": "Habits week",
+    "narrative": "8 entries, mean mood +0.0. Most of the writing was about habits, german, knee. The good days came from running and the side project; the harder ones from sleep and the demo deadline.",
+    "mood_summary": "mean mood +0.0 over 8 rated entries",
+    "themes": [
+     {
+      "label": "habits",
+      "note": "2 entries"
+     },
+     {
+      "label": "german",
+      "note": "2 entries"
+     },
+     {
+      "label": "knee",
+      "note": "1 entries"
+     },
+     {
+      "label": "code review",
+      "note": "1 entries"
+     }
+    ],
+    "wins": [],
+    "struggles": [
+     "Knee exercises done, day 14 of",
+     "Did the German homework at the",
+     "Sunday evening heaviness, milder than last"
+    ],
+    "open_loops": [],
+    "goals": [
+     {
+      "id": "g_half",
+      "note": "Distance up, knee managed with the physio routine."
+     }
+    ],
+    "patterns": [
+     "Sunday entries average lower than the rest of the week (2 of them)."
+    ],
+    "question": "Which of this week's good days could you schedule on purpose next week?",
+    "shifts": [],
+    "advice": "Protect the sleep the early recordings are eating."
+   },
+   "generatedAt": "2026-10-19T08:00:00.000Z",
+   "example": true
+  },
+  {
+   "key": "m-2026-09",
+   "id": "m-2026-09",
+   "kind": "month",
+   "from": "2026-09-01",
+   "to": "2026-09-30",
+   "entryIds": [
+    "e_1a078730900",
+    "e_1a07b6aec40",
+    "e_1a0826d5b40",
+    "e_1a08ade0040",
+    "e_1a09144cb80",
+    "e_1a094213780",
+    "e_1a09e64c7c0",
+    "e_1a0a3944b80",
+    "e_1a0a9c42840",
+    "e_1a0b3075f80",
+    "e_1a0b9373c40",
+    "e_1a0be5d9840",
+    "e_1a0cad8c900",
+    "e_1a0d713e380",
+    "e_1a0df723900",
+    "e_1a0e26a1c40",
+    "e_1a0e4a650a0",
+    "e_1a0e67dcfc0",
+    "e_1a0f31d9f80"
+   ],
+   "data": {
+    "headline": "Friendship week",
+    "narrative": "19 entries, mean mood +0.3. Most of the writing was about friendship, debugging, german. The good days came from running and the side project; the harder ones from sleep and the demo deadline.",
+    "mood_summary": "mean mood +0.3 over 19 rated entries",
+    "themes": [
+     {
+      "label": "friendship",
+      "note": "3 entries"
+     },
+     {
+      "label": "debugging",
+      "note": "3 entries"
+     },
+     {
+      "label": "german",
+      "note": "3 entries"
+     },
+     {
+      "label": "sleep",
+      "note": "3 entries"
+     }
+    ],
+    "wins": [
+     "Ran 10 km along the lake",
+     "Climbing with Lena after work. Forearms",
+     "Slow Sunday: read in bed, laundry"
+    ],
+    "struggles": [
+     "German practice, 25 minutes on the",
+     "Gripper controller rewritten; the cup still",
+     "Woke at four and stayed awake"
+    ],
+    "open_loops": [],
+    "goals": [
+     {
+      "id": "g_half",
+      "note": "Distance up, knee managed with the physio routine."
+     }
+    ],
+    "patterns": [
+     "Sunday entries average lower than the rest of the week (4 of them)."
+    ],
+    "question": "Which of this week's good days could you schedule on purpose next week?",
+    "shifts": [],
+    "advice": "Protect the sleep the early recordings are eating."
+   },
+   "generatedAt": "2026-10-01T08:00:00.000Z",
+   "example": true
+  }
+ ],
+ "insights": [
+  {
+   "key": "w-2026-W44",
+   "id": "w-2026-W44",
+   "generatedAt": "2026-10-31T08:35:00.000Z",
+   "example": true,
+   "items": [
+    {
+     "text": "Entries that mention sleep average a full point below the rest; the earplugs week is the exception.",
+     "evidence": "themeMood: sleep",
+     "confidence": "moderate"
+    },
+    {
+     "text": "Running days are the best-rated days, but they are also the days with the most other activity, so the direction of cause is open.",
+     "evidence": "themeMood: running",
+     "confidence": "suggestive"
+    },
+    {
+     "text": "The Sunday dip is consistent across six Sundays; it is a weekly rhythm, not an event.",
+     "evidence": "weekday profile",
+     "confidence": "moderate"
+    }
+   ]
+  }
+ ],
+ "headsup": [
+  {
+   "key": "2026-10-31",
+   "id": "2026-10-31",
+   "generatedAt": "2026-10-31T08:30:00.000Z",
+   "example": true,
+   "data": {
+    "state": "Eight weeks in, the journal shows a demo crunch in the middle, a recovery driven by running and the side project, and a sleep debt that keeps coming back through the neighbours and the early recordings. The career question is settled; the sleep question is not.",
+    "in_play": [
+     {
+      "theme": "running",
+      "reading": "Distance up and knee quiet since the physio routine.",
+      "trend": "rising"
+     },
+     {
+      "theme": "sleep",
+      "reading": "Better after the earplugs, undercut by the dawn recordings.",
+      "trend": "steady"
+     },
+     {
+      "theme": "german",
+      "reading": "Daily practice is real now that an exam date exists.",
+      "trend": "rising"
+     }
+    ],
+    "heads_up": [
+     {
+      "text": "Three of the last seven entries were written after 22:30 with energy at 2 or below.",
+      "level": "watch",
+      "evidence": "entries by time and energy",
+      "confidence": "suggestive"
+     },
+     {
+      "text": "Sunday entries average −0.7 against +0.6 for the rest of the week.",
+      "level": "watch",
+      "evidence": "weekday profile",
+      "confidence": "moderate"
+     },
+     {
+      "text": "Eleven consecutive days with an entry.",
+      "level": "good",
+      "evidence": "writing streak",
+      "confidence": "strong"
+     }
+    ],
+    "forecast": [
+     {
+      "text": "If the dawn recordings continue three mornings a week, expect another low-energy stretch within a fortnight.",
+      "horizon": "next week",
+      "basis": "energy after early starts",
+      "confidence": "low"
+     }
+    ],
+    "suggestions": [
+     "Decide how many clips the classifier still needs and stop recording when you have them.",
+     "Move the laundry to Saturday every week, since the one experiment coincided with a lighter Sunday."
+    ],
+    "blind_spots": [
+     "The German goal has no check-in yet.",
+     "Money appears only when the budget is done; nothing about the raise that was never asked for."
+    ],
+    "question": "What would a Sunday look like if you designed it instead of letting it happen?"
+   }
+  }
+ ],
+ "settings": {
+  "id": "main",
+  "instructions": "Call the robotics work “the demo” or “the second arm”. Be direct in reviews.",
+  "filingTier": "default",
+  "weekStart": 1,
+  "headsupAuto": false
+ }
+}

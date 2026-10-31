@@ -1,0 +1,19 @@
+[project]
+name = "second-brain-local"
+version = "0.1.0"
+description = "A local-first second brain: Markdown vault, local service, Claude for filing and reviews."
+requires-python = ">=3.10"
+dependencies = ["fastapi>=0.110", "uvicorn>=0.29", "anthropic>=0.50", "pyyaml>=6", "python-multipart>=0.0.9", "pywebview>=5"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "httpx>=0.27"]
+
+[project.scripts]
+sb = "sb.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["sb"]
