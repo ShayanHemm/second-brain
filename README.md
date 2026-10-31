@@ -1,5 +1,7 @@
 # Second Brain
 
+[![tests](https://github.com/ShayanHemm/second-brain/actions/workflows/tests.yml/badge.svg)](https://github.com/ShayanHemm/second-brain/actions/workflows/tests.yml) [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A local-first journal that files itself, links what you write into a network, and tells you in plain words what it sees in your own entries. Your data is a folder of Markdown files on your machine. Claude does the reading; you keep the keys.
 
 **[Live demo](https://shayanhemm.github.io/second-brain/)** with a fictional eight-week journal (no account, nothing saved, Claude switched off) · [How it works](#how-it-works) · [Install](#install-macos) · [Design notes](docs/DESIGN-NOTES.md) · [Architecture](docs/ARCHITECTURE.md)
