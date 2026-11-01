@@ -115,6 +115,6 @@ docs/      live demo, screenshots, architecture and design notes
 
 ## Built with
 
-FastAPI, uvicorn, SQLite with FTS5, PyYAML, the Anthropic Python SDK, pywebview, d3-force, and the Newsreader, Bricolage Grotesque and JetBrains Mono typefaces. Written over a few days with Claude Code as a pair programmer, every design decision argued out loud first.
+FastAPI, uvicorn, SQLite with FTS5, PyYAML, the Anthropic Python SDK, pywebview, d3-force, and the Newsreader, Bricolage Grotesque and JetBrains Mono typefaces.
 
 MIT License.
